@@ -51,7 +51,7 @@ Various methods were used to create the model including Logistic Regression, and
 It is worth noting though that there were was only a slight variation in the results of each of these models. Therefore, the final model was only marginally better than the others. Since there were only 3 features that were chosen, and less than 1,000 total values, it is likely that this was too small of a sample to have created a massive difference between the different variations of models. Penalties like L1 and L2 also likely had little impact due to the small number of features.
 
 
-###The Final Model
+### The Final Model
 
 The final model that was chosen used a Logistic Regression with no penalities, resulting in a cross-validated R^2 score of .76. 
 
