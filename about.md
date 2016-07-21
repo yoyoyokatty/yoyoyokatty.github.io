@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-**Thinkspace** is just another minimalist Jekyll theme that focuses on technical writing. Designed for engineers to write their ranting and findings.
+Katty Lein is a student at General Assembly's Data Science Immersive student.
+
+This is a centralized hub for all project related work.
+
+Please note, everything is currently a work in progress!

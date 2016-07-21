@@ -1,7 +1,7 @@
 
 # SEO settings
-title: "Think"
-title2: "space" # default: ""
+title: ""
+title2: "" # default: ""
 description: "Just another minimalist Jekyll theme that focuses on technical writing."
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://yoyoyokatty.github.io # site url
@@ -30,19 +30,19 @@ sass:
 author:
   name     : "Katty Lein"
   job      : "Data Science Immersive Student at General Assembly"
-  bio      : "I don't know right now"
+  bio      : ""
   thumb    : /images/author.jpg
-  email    : hnrird@gmail.com
-  url      : http://heiswayi.github.io
-  github   : http://github.com/heiswayi
-  twitter  : http://twitter.com/HeiswayiNrird
-  facebook : https://www.facebook.com/profile.php?id=1257583160
-  linkedin : http://linkedin.com/in/nrird
+  email    : katty.lein@gmail.com
+  url      : http://yoyoyokatty.github.io
+  github   : n/a
+  twitter  : n/a
+  facebook : n/a
+  linkedin : Public Profilehttps://www.linkedin.com/in/kattylein
 
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_site: "n/a"
 
 gems:
   - bourbon
