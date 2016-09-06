@@ -1,8 +1,8 @@
 
 # SEO settings
-title: ""
-title2: "" # default: ""
-description: "Just another minimalist Jekyll theme that focuses on technical writing."
+title: Katty Lein
+title2: Katty Lein
+description: """"
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://yoyoyokatty.github.io # site url
 baseurl: NULL
@@ -37,7 +37,7 @@ author:
   github   : n/a
   twitter  : n/a
   facebook : n/a
-  linkedin : Public Profilehttps://www.linkedin.com/in/kattylein
+  linkedin : https://www.linkedin.com/in/kattylein
 
 # social settings
 og_locale: "en_US"
