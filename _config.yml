@@ -29,7 +29,7 @@ sass:
 # Author settings
 author:
   name     : "Katty Lein"
-  job      : "Baby Data Scientist, graduate of General Assembly's Data Science Immersive program"
+  job      : "Data Scientist, recent graduate of General Assembly's Data Science Immersive program"
   bio      : ""
   thumb    : /images/author.jpg
   email    : katty.lein@gmail.com
