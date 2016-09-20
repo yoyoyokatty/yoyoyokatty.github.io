@@ -2,7 +2,7 @@
 # SEO settings
 title: "Katty"
 title2: " Lein" # default: ""
-description: "Just another minimalist Jekyll theme that focuses on technical writing."
+description: "A place for all my fun data science projects"
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://yoyoyokatty.github.io # site url
 baseurl: NULL
@@ -29,7 +29,7 @@ sass:
 # Author settings
 author:
   name     : "Katty Lein"
-  job      : "Data Science Immersive Student at General Assembly"
+  job      : "Baby Data Scientist, graduate of General Assembly's Data Science Immersive program"
   bio      : ""
   thumb    : /images/author.jpg
   email    : katty.lein@gmail.com
